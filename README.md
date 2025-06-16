@@ -27,7 +27,7 @@ Atualmente, estou focado em aprimorar minhas habilidades técnicas e acompanhar 
 
 ---
 
-### 🤖 Tecnologias que domino
+### 🤖 Tecnologias que estudo
 
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="30px"/>
@@ -35,6 +35,7 @@ Atualmente, estou focado em aprimorar minhas habilidades técnicas e acompanhar 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="30px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="30px"/>
 </div>
 
@@ -42,9 +43,9 @@ Atualmente, estou focado em aprimorar minhas habilidades técnicas e acompanhar 
 
 ### 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=MatheusLS240&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLS240&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+<p align="center">
+  <img height="200vh" src="https://github-readme-stats.vercel.app/api?username=MatheusLS240&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  <img height="200vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLS240&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </p>
 
 ---
