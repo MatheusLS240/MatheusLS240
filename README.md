@@ -56,8 +56,6 @@ Meu objetivo é me tornar um desenvolvedor backend de alto nível, com domínio 
 No momento, estou aprofundando meus conhecimentos em Java e banco de dados — e claro, praticando com projetos reais.
 
 ---
-
-### ⚡ Fun fact nerd
-
+### 📌 Filosofia pessoal
 > *"while(!(succeed = try()));"*  
 > — meu código de vida. 😎
