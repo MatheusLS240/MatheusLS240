@@ -41,11 +41,20 @@ Atualmente, estou focado em aprimorar minhas habilidades técnicas e acompanhar 
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas Profissionais
 
 <p align="left">
-  <img height="190vh" src="https://github-readme-stats.vercel.app/api?username=MatheusLS240&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img height="190vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLS240&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+  <img height="190vh" src="https://github-readme-streak-stats.herokuapp.com?user=MatheusLS240&theme=tokyonight&locale=pt-br" alt="Contribuições em sequência"/>
+  <img height="190vh" src="https://github-readme-stats.vercel.app/api?username=MatheusLS240&count_private=true&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas de commits"/>
+</p>
+
+---
+
+### 📈 Produtividade em foco
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusLS240&theme=tokyonight" alt="Resumo do perfil"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatheusLS240&theme=tokyonight&utcOffset=-3" alt="Horas mais produtivas"/>
 </p>
 
 ---
