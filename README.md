@@ -41,11 +41,10 @@ Atualmente, estou focado em aprimorar minhas habilidades técnicas e acompanhar 
 
 ---
 
-### 📊 Estatísticas Técnicas
+### 📊 Estatística Técnica
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusLS240&theme=tokyonight" alt="Estatísticas gerais"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MatheusLS240&theme=tokyonight&locale=pt-br" alt="Contribuições consecutivas"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MatheusLS240&theme=tokyonight&locale=pt-br&hide_border=true" alt="Contribuições consecutivas"/>
 </p>
 
 ---
