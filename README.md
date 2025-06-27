@@ -44,7 +44,7 @@ Atualmente, estou focado em aprimorar minhas habilidades técnicas e acompanhar 
 ### 📊 Estatística Técnica
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MatheusLS240&theme=tokyonight&locale=pt-br&hide_border=true" alt="Contribuições consecutivas" width="55%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MatheusLS240&theme=tokyonight&locale=pt-br&hide_border=true" alt="Contribuições consecutivas" width="60%"/>
 </div>
 
 ---
@@ -52,9 +52,9 @@ Atualmente, estou focado em aprimorar minhas habilidades técnicas e acompanhar 
 ### 📁 Perfil de Repositórios
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusLS240&theme=tokyonight" alt="Repositórios por linguagem" width="30%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusLS240&theme=tokyonight" alt="Linguagem com mais commits" width="30%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusLS240&theme=tokyonight" alt="Detalhes do perfil" width="65%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusLS240&theme=tokyonight" alt="Repositórios por linguagem" width="35%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusLS240&theme=tokyonight" alt="Linguagem com mais commits" width="35%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusLS240&theme=tokyonight" alt="Detalhes do perfil" width="70%"/>
 </p>
 
 ---
