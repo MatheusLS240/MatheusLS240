@@ -29,7 +29,7 @@ Atualmente, estou focado em aprimorar minhas habilidades técnicas e acompanhar 
 
 ### 🤖 Tecnologias que estudo
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="30px"/>
@@ -41,11 +41,12 @@ Atualmente, estou focado em aprimorar minhas habilidades técnicas e acompanhar 
 
 ---
 
-### 📊 Estatística Técnica
+### 📊 Estatísticas Técnicas
 
-<p align="left">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MatheusLS240&theme=tokyonight&locale=pt-br&hide_border=true" alt="Contribuições consecutivas"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusLS240&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas gerais"/>
+</div>
 
 ---
 
