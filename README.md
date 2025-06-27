@@ -71,4 +71,4 @@ No momento, estou aprofundando meus conhecimentos em Java e banco de dados — e
 ### 📌 Filosofia pessoal
 
 > *"while(!(succeed = try()));"*  
-> — meu código de vida. 😎
+> — meu código de vida. 
