@@ -44,7 +44,6 @@ Atualmente, estou focado em aprimorar minhas habilidades técnicas e acompanhar 
 ### 📊 Estatísticas Profissionais
 
 <p align="left">
-  <img height="170vh" src="https://github-readme-streak-stats.herokuapp.com?user=MatheusLS240&theme=tokyonight&locale=pt-br" alt="Contribuições em sequência"/>
   <img height="170vh" src="https://github-readme-stats.vercel.app/api?username=MatheusLS240&count_private=true&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas de commits"/>
 </p>
 
