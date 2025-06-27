@@ -41,20 +41,21 @@ Atualmente, estou focado em aprimorar minhas habilidades técnicas e acompanhar 
 
 ---
 
-### 📊 Estatísticas Profissionais
+### 📊 Estatísticas Técnicas
 
 <p align="left">
-  <img height="170vh" src="https://github-readme-streak-stats.herokuapp.com?user=MatheusLS240&theme=tokyonight&locale=pt-br" alt="Contribuições em sequência"/>
-  <img height="170vh" src="https://github-readme-stats.vercel.app/api?username=MatheusLS240&count_private=true&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas de commits"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusLS240&theme=tokyonight" alt="Estatísticas gerais"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MatheusLS240&theme=tokyonight&locale=pt-br" alt="Contribuições consecutivas"/>
 </p>
 
 ---
 
-### 📈 Produtividade em foco
+### 📁 Perfil de Repositórios
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusLS240&theme=tokyonight" alt="Resumo do perfil"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatheusLS240&theme=tokyonight&utcOffset=-3" alt="Horas mais produtivas"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusLS240&theme=tokyonight" alt="Repositórios por linguagem"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusLS240&theme=tokyonight" alt="Linguagem com mais commits"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusLS240&theme=tokyonight" alt="Detalhes do perfil"/>
 </p>
 
 ---
@@ -66,6 +67,8 @@ Meu objetivo é me tornar um desenvolvedor backend de alto nível, com domínio 
 No momento, estou aprofundando meus conhecimentos em Java e banco de dados — e claro, praticando com projetos reais.
 
 ---
+
 ### 📌 Filosofia pessoal
+
 > *"while(!(succeed = try()));"*  
 > — meu código de vida. 😎
