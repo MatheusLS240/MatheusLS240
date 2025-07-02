@@ -41,14 +41,6 @@ Atualmente, estou focado em aprimorar minhas habilidades técnicas e acompanhar 
 
 ---
 
-### 📊 Estatística Técnica
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MatheusLS240&theme=tokyonight&locale=pt-br&hide_border=true" alt="Contribuições consecutivas" width="60%"/>
-</div>
-
----
-
 ### 📁 Perfil de Repositórios
 
 <p align="left">
