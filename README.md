@@ -43,7 +43,7 @@ Atualmente, estou focado em aprimorar minhas habilidades técnicas e acompanhar 
 
 ### 📁 Perfil de Repositórios
 
-<p align="left">
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusLS240&theme=tokyonight" alt="Repositórios por linguagem" width="35%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusLS240&theme=tokyonight" alt="Linguagem com mais commits" width="35%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusLS240&theme=tokyonight" alt="Detalhes do perfil" width="70%"/>
