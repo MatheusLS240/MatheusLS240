@@ -14,14 +14,14 @@ Atualmente, estou focado em aprimorar minhas habilidades técnicas e acompanhar 
   <a href="https://br.linkedin.com/in/matheus-louren%C3%A7o-soares-76199a352">
     <img src="https://img.shields.io/badge/🔗 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="mailto:grandboss1978@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
   <a href="https://github.com/MatheusLS240?tab=repositories&sort=stargazers">
     <img src="https://custom-icon-badges.demolab.com/github/stars/MatheusLS240?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" alt="Estrelas GitHub"/>
   </a>
   <a href="https://github.com/MatheusLS240?tab=followers">
     <img src="https://custom-icon-badges.demolab.com/github/followers/MatheusLS240?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" alt="Seguidores GitHub"/>
-  </a>
-  <a href="mailto:grandboss1978@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
