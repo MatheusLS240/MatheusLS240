@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Matheus, tenho 16 anos e estou no 4º semestre do curso de Desenvolvimento de Sistemas na ETEC Parque Belém.  
+Me chamo Matheus, tenho 16 anos e estou no 4º semestre do curso de Técnico em Desenvolvimento de Sistemas na ETEC Parque Belém e iniciando Técnico em informática no SENAC Cel. Luís Americano.  
 Desde cedo, sou apaixonado por tecnologia e programação — essa paixão me motiva a buscar constantemente novos conhecimentos para me destacar no mercado de TI.  
 Atualmente, estou focado em aprimorar minhas habilidades técnicas e acompanhar as tendências que moldam o futuro da tecnologia.
 
