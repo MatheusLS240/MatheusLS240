@@ -56,10 +56,3 @@ Atualmente, estou focado em aprimorar minhas habilidades técnicas e acompanhar 
 Sou movido por desafios e aprendizado.  
 Meu objetivo é me tornar um desenvolvedor backend de alto nível, com domínio em Java, Python, bancos de dados e arquitetura de sistemas.  
 No momento, estou aprofundando meus conhecimentos em Java e banco de dados — e claro, praticando com projetos reais.
-
----
-
-### 📌 Filosofia pessoal
-
-> *"while(!(succeed = try()));"*  
-> — meu código de vida. 
