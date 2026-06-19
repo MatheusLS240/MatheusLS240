@@ -48,11 +48,3 @@ Atualmente, estou focado em aprimorar minhas habilidades técnicas e acompanhar 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusLS240&theme=tokyonight" alt="Linguagem com mais commits" width="35%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusLS240&theme=tokyonight" alt="Detalhes do perfil" width="70%"/>
 </p>
-
----
-
-### 🧠 Em evolução constante...
-
-Sou movido por desafios e aprendizado.  
-Meu objetivo é me tornar um desenvolvedor backend de alto nível, com domínio em Java, Python, bancos de dados e arquitetura de sistemas.  
-No momento, estou aprofundando meus conhecimentos em Java e banco de dados — e claro, praticando com projetos reais.
