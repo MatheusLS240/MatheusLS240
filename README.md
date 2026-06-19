@@ -1,10 +1,12 @@
 ## 👨🏻‍💻 Matheus Lourenço Soares
 
-**`Desenvolvedor Backend`**
+**`Desenvolvedor Full Stack em Formação`**
 
-Me chamo Matheus, tenho 17 anos e estou no 5º semestre do curso de Técnico em Desenvolvimento de Sistemas na ETEC Parque Belém e na metade do Técnico em informática no SENAC Cel. Luís Americano.  
-Desde cedo, sou apaixonado por tecnologia e programação — essa paixão me motiva a buscar constantemente novos conhecimentos para me destacar no mercado de TI.  
-Atualmente, estou focado em aprimorar minhas habilidades técnicas e acompanhar as tendências que moldam o futuro da tecnologia.
+Meu nome é Matheus, tenho 17 anos e atualmente estou cursando o 5º semestre do Técnico em Desenvolvimento de Sistemas na ETEC Parque Belém, além do Técnico em Informática no SENAC Cel. Luís Americano.
+
+Sou apaixonado por tecnologia desde cedo, especialmente por programação e tudo o que envolve inovação. Essa paixão me motiva a buscar constantemente novos conhecimentos, desenvolver minhas habilidades e enfrentar desafios que contribuam para meu crescimento profissional.
+
+Atualmente, estou focado em aprimorar minhas competências técnicas, adquirir experiência prática e acompanhar as tendências que estão transformando o mercado de tecnologia. Meu objetivo é construir uma carreira sólida na área de TI, unindo aprendizado contínuo, dedicação e vontade de evoluir.
 
 ---
 
@@ -38,6 +40,19 @@ Atualmente, estou focado em aprimorar minhas habilidades técnicas e acompanhar 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="30px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="30px"/>
 </div>
+
+---
+
+### 🎓 Formação e Certificações
+
+* Técnico em Desenvolvimento de Sistemas — ETEC Parque Belém (5º semestre)
+* Técnico em Informática — SENAC Cel. Luís Americano (em andamento)
+* Programação JAVA - SENAI
+* Microsoft Azure Fundamentals (AZ-900) - SENAI
+* Banco de Dados para Data Science — SENAI
+* Informática Básica - SENAI
+* Implementação em Big Data - SENAI
+* Formação Front-End - SENAC (em andamento)
 
 ---
 
