@@ -45,7 +45,7 @@ Atualmente, estou focado em aprimorar minhas competências técnicas, adquirir e
 
 ### 🎓 Formação e Certificações
 
-* Técnico em Desenvolvimento de Sistemas — ETEC Parque Belém (5º semestre)
+* Técnico em Desenvolvimento de Sistemas — ETEC Parque Belém (Ultimo semestre)
 * Técnico em Informática — SENAC Cel. Luís Americano (em andamento)
 * Programação JAVA - SENAI
 * Microsoft Azure Fundamentals (AZ-900) - SENAI
