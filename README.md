@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack em Formação`**
 
-Meu nome é Matheus, tenho 17 anos e atualmente estou cursando o 5º semestre do Técnico em Desenvolvimento de Sistemas na ETEC Parque Belém, além do Técnico em Informática no SENAC Cel. Luís Americano.
+Meu nome é Matheus, tenho 17 anos e atualmente estou cursando o 6º semestre do Técnico em Desenvolvimento de Sistemas na ETEC Parque Belém, além do Técnico em Informática no SENAC Cel. Luís Americano.
 
 Sou apaixonado por tecnologia desde cedo, especialmente por programação e tudo o que envolve inovação. Essa paixão me motiva a buscar constantemente novos conhecimentos, desenvolver minhas habilidades e enfrentar desafios que contribuam para meu crescimento profissional.
 
