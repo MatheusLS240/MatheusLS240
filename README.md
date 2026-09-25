@@ -52,7 +52,7 @@ Atualmente, estou focado em aprimorar minhas competências técnicas, adquirir e
 * Banco de Dados para Data Science — SENAI
 * Informática Básica - SENAI
 * Implementação em Big Data - SENAI
-* Formação Front-End - SENAC (em andamento)
+* Formação Front-End - SENAC
 
 ---
 
